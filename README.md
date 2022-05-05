@@ -1,4 +1,4 @@
-### Sou Ronaldo Oliveira, técnico em Informática, quase formado em Engenharia Mecânica e atualmente estudando programação de forma autodidata.
+### Sou Ronaldo, técnico em Informática, quase formado em Engenharia Mecânica e atualmente estudando programação de forma autodidata.
 ##
 <div align="center">
   <a href="https://github.com/ImRonaldo">
