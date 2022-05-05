@@ -1,4 +1,4 @@
-### Sou Ronaldo, técnico em Informática, quase formado em Engenharia Mecânica e atualmente estudando programação de forma autodidata.
+### <center> Sou Ronaldo, técnico em Informática, quase formado em Engenharia Mecânica e atualmente estudando programação de forma autodidata. </center>
 ##
 <div align="center">
   <a href="https://github.com/ImRonaldo">
