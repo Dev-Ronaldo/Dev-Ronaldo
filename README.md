@@ -1,4 +1,4 @@
-### Sou Ronaldo, técnico em Informática, quase formado em Engenharia Mecânica e atualmente estudando programação de forma autodidata.
+### Sou Ronaldo, técnico em Informática, quase formado em Engenharia Mecânica e atualmente estudando programação de forma autodidata. 
 ##
 <div align="center">
   <a href="https://github.com/ImRonaldo">
@@ -17,8 +17,7 @@
   <img align="center" alt="Ronaldo-Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <!-- <img align="center" alt="Ronaldo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
          
-  
-</div>
+  </div>
   
   ##
  
