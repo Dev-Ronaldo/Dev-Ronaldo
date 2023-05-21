@@ -1,8 +1,8 @@
 ### Ronaldo, estudante de desenvolvimento Front-end. 
 <div align="center">
-  <a href="https://github.com/ImRonaldo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ImRonaldo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImRonaldo&layout=compact&langs_count=7&theme=github_dark"/>
+  <a href="https://github.com/Dev-Ronaldo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Ronaldo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Ronaldo&layout=compact&langs_count=7&theme=github_dark"/>
 </div>  
 <div style="display: inline_block"><br>
   <img align="center" alt="Ronaldo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
