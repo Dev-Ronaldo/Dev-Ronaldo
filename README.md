@@ -1,4 +1,4 @@
-### Ronaldo, estudante de desenvolvimento Front-end. 
+### Ronaldo, estudante de Segurança da Informação e Desenvolvimento Front-end. 
 <div align="center">
   <a href="https://github.com/Dev-Ronaldo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Ronaldo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -20,7 +20,7 @@
 <div> 
   <!-- <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
   <!-- <a href="https://www.twitch.tv/" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
-   <a href="https://www.linkedin.com/in/ronaldo-t-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/ronaldotvrs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/ImRonaldo/ImRonaldo/blob/output/github-contribution-grid-snake.svg)
   
